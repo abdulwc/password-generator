@@ -9,11 +9,11 @@ Welcome to my Python Password Generator project! This repository contains a Pyth
 
 <h2>Key Highlights & Features</h2>
 
-**Python Script**: A simple and effective script for generating secure passwords.
-**Customizable Password Length**: Users have the flexibility to specify the length of the password according to their needs.
-**Inclusion of Special Characters**: Offers the option to include special characters, enhancing password complexity.
-**Usability from Command Line**: This script can be easily used from the command line, making it accessible for quick password generation.
-**User Input Handling**: Allows for user customization of password length and character types through interactive prompts.
+- **Python Script**: A simple and effective script for generating secure passwords.
+- **Customizable Password Length**: Users have the flexibility to specify the length of the password according to their needs.
+- **Inclusion of Special Characters**: Offers the option to include special characters, enhancing password complexity.
+- **Usability from Command Line**: This script can be easily used from the command line, making it accessible for quick password generation.
+- **User Input Handling**: Allows for user customization of password length and character types through interactive prompts.
 
 <h2>Usage</h2>
 
